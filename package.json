@@ -81,6 +81,7 @@
             "packages/automation-contracts/autowrap"
         ],
         "nohoist": [
+            "**/@openzeppelin/**",
             "**/webpack",
             "**/webpack/**"
         ]
